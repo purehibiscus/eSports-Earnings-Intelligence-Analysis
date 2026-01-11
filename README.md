@@ -2,6 +2,8 @@
 
 **Esports Earnings Intelligence Analysis**
 
+https://app.powerbi.com/links/AnobYpRL2D?ctid=f9afa6d3-a503-44b2-91da-b801e2cc43b6&pbi_source=linkShare 
+
 
 Tools: Power BI, Excel, VS Code, Kaggle CSVs
 Domain: Global Esports Economics & Market Intelligence
