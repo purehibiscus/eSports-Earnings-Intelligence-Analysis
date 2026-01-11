@@ -1,0 +1,263 @@
+Country_Key,Country_Name,Country_Code,Continent Name
+C_001,Algeria,AF,Africa
+C_002,Angola,AL,Africa
+C_003,Benin,DZ,Africa
+C_004,Botswana,AS,Africa
+C_005,Burkina Faso,AD,Africa
+C_006,Burundi,AO,Africa
+C_007,Cameroon,AQ,Africa
+C_008,Cape Verde,AG,Africa
+C_009,Central African Republic,AR,Africa
+C_010,Chad,AM,Africa
+C_011,Comoros,AU,Africa
+C_012,Democratic Republic of Congo,AT,Africa
+C_013,Republic of the Congo,AZ,Africa
+C_014,Cote d'Ivoire,BS,Africa
+C_015,Djibouti,BH,Africa
+C_016,Egypt,BD,Africa
+C_017,Equatorial Guinea,BB,Africa
+C_018,Eritrea,BY,Africa
+C_019,Ethiopia,BE,Africa
+C_020,Gabon,BZ,Africa
+C_021,Gambia,BM,Africa
+C_022,Ghana,BT,Africa
+C_023,Guinea,BO,Africa
+C_024,Guinea-Bissau,BA,Africa
+C_025,Kenya,BW,Africa
+C_026,Lesotho,BV,Africa
+C_027,Liberia,BR,Africa
+C_028,Libyan Arab Jamahiriya,IO,Africa
+C_029,Madagascar,VG,Africa
+C_030,Malawi,BN,Africa
+C_031,Mali,BG,Africa
+C_032,Mauritania,BI,Africa
+C_033,Mauritius,KH,Africa
+C_034,Mayotte,CM,Africa
+C_035,Morocco,CA,Africa
+C_036,Mozambique,CV,Africa
+C_037,Namibia,KY,Africa
+C_038,Niger,CF,Africa
+C_039,Nigeria,TD,Africa
+C_040,Reunion,CL,Africa
+C_041,Rwanda,CN,Africa
+C_042,Saint Helena,CX,Africa
+C_043,Sao Tome and Principe,CC,Africa
+C_044,Senegal,CO,Africa
+C_045,Seychelles,MM,Africa
+C_046,Sierra Leone,YT,Africa
+C_047,Somalia,MM,Africa
+C_048,South Africa,SB,Africa
+C_049,South Sudan,LK,Africa
+C_050,Sudan,TW,Africa
+C_051,Swaziland,,Africa
+C_052,Tanzania,,Africa
+C_053,Togo,,Africa
+C_054,Tunisia,,Africa
+C_055,Uganda,,Africa
+C_056,Western Sahara,,Africa
+C_057,Zambia,,Africa
+C_058,Zimbabwe,,Africa
+C_059,Antarctica (the territory South of 60 deg S),,Antarctica
+C_060,Bouvet Island (Bouvetoya),,Antarctica
+C_061,South Georgia and the South Sandwich Islands,,Antarctica
+C_062,French Southern Territories,,Antarctica
+C_063,Heard Island and McDonald Islands,,Antarctica
+C_064,Afghanistan,,Asia
+C_065,Azerbaijan,,Asia
+C_066,Bahrain,,Asia
+C_067,Bangladesh,,Asia
+C_068,Armenia,,Asia
+C_069,Bhutan,,Asia
+C_070,British Indian Ocean Territory (Chagos Archipelago),,Asia
+C_071,Brunei Darussalam,,Asia
+C_072,Myanmar,,Asia
+C_073,Cambodia,,Asia
+C_074,Sri Lanka,,Asia
+C_075,China,,Asia
+C_076,Taiwan,,Asia
+C_077,Christmas Island,,Asia
+C_078,Cocos (Keeling) Islands,,Asia
+C_079,Cyprus,,Asia
+C_080,Georgia,,Asia
+C_081,Palestinian Territory,,Asia
+C_082,Hong Kong,,Asia
+C_083,India,,Asia
+C_084,Indonesia,,Asia
+C_085,Iran,,Asia
+C_086,Iraq,,Asia
+C_087,Israel,,Asia
+C_088,Japan,,Asia
+C_089,Kazakhstan,,Asia
+C_090,Jordan,,Asia
+C_091,North Korea,,Asia
+C_092,South Korea,,Asia
+C_093,Kuwait,,Asia
+C_094,Kyrgyz Republic,,Asia
+C_095,Lao People's Democratic Republic,,Asia
+C_096,Lebanon,,Asia
+C_097,Macao,,Asia
+C_098,Malaysia,,Asia
+C_099,Maldives,,Asia
+C_100,Mongolia,,Asia
+C_101,Oman,,Asia
+C_102,Nepal,,Asia
+C_103,Pakistan,,Asia
+C_104,Philippines,,Asia
+C_105,Timor-Leste,,Asia
+C_106,Qatar,,Asia
+C_107,Russian Federation,,Asia
+C_108,Saudi Arabia,,Asia
+C_109,Singapore,,Asia
+C_110,Vietnam,,Asia
+C_111,Syria,,Asia
+C_112,Tajikistan,,Asia
+C_113,Thailand,,Asia
+C_114,United Arab Emirates,,Asia
+C_115,Turkey,,Asia
+C_116,Turkmenistan,,Asia
+C_117,Uzbekistan,,Asia
+C_118,Yemen,,Asia
+C_119,Iraq-Saudi Arabia Neutral Zone,,Asia
+C_120,United Nations Neutral Zone,,Asia
+C_121,Spratly Islands,,Asia
+C_122,Albania,,Europe
+C_123,Andorra,,Europe
+C_124,Azerbaijan,,Europe
+C_125,Austria,,Europe
+C_126,Armenia,,Europe
+C_127,Belgium,,Europe
+C_128,Bosnia and Herzegovina,,Europe
+C_129,Bulgaria,,Europe
+C_130,Belarus,,Europe
+C_131,Croatia,,Europe
+C_132,Cyprus,,Europe
+C_133,Czech Republic,,Europe
+C_134,Denmark,,Europe
+C_135,Estonia,,Europe
+C_136,Faroe Islands,,Europe
+C_137,Finland,,Europe
+C_138,Åland Islands,,Europe
+C_139,France,,Europe
+C_140,Georgia,,Europe
+C_141,Germany,,Europe
+C_142,Gibraltar,,Europe
+C_143,Greece,,Europe
+C_144,Holy See (Vatican City State),,Europe
+C_145,Hungary,,Europe
+C_146,Iceland,,Europe
+C_147,Ireland,,Europe
+C_148,Italy,,Europe
+C_149,Kazakhstan,,Europe
+C_150,Latvia,,Europe
+C_151,Liechtenstein,,Europe
+C_152,Lithuania,,Europe
+C_153,Luxembourg,,Europe
+C_154,Malta,,Europe
+C_155,Monaco,,Europe
+C_156,Moldova,,Europe
+C_157,Montenegro,,Europe
+C_158,Netherlands,,Europe
+C_159,Norway,,Europe
+C_160,Poland,,Europe
+C_161,Portugal,,Europe
+C_162,Romania,,Europe
+C_163,Russian Federation,,Europe
+C_164,San Marino,,Europe
+C_165,Serbia,,Europe
+C_166,Slovakia (Slovak Republic),,Europe
+C_167,Slovenia,,Europe
+C_168,Spain,,Europe
+C_169,Svalbard & Jan Mayen Islands,,Europe
+C_170,Sweden,,Europe
+C_171,Switzerland,,Europe
+C_172,Turkey,,Europe
+C_173,Ukraine,,Europe
+C_174,Macedonia,,Europe
+C_175,United Kingdom,,Europe
+C_176,Guernsey,,Europe
+C_177,Jersey,,Europe
+C_178,Isle of Man,,Europe
+C_179,Antigua and Barbuda,,North America
+C_180,Bahamas,,North America
+C_181,Barbados,,North America
+C_182,Bermuda,,North America
+C_183,Belize,,North America
+C_184,British Virgin Islands,,North America
+C_185,Canada,,North America
+C_186,Cayman Islands,,North America
+C_187,Costa Rica,,North America
+C_188,Cuba,,North America
+C_189,Dominica,,North America
+C_190,Dominican Republic,,North America
+C_191,El Salvador,,North America
+C_192,Greenland,,North America
+C_193,Grenada,,North America
+C_194,Guadeloupe,,North America
+C_195,Guatemala,,North America
+C_196,Haiti,,North America
+C_197,Honduras,,North America
+C_198,Jamaica,,North America
+C_199,Martinique,,North America
+C_200,Mexico,,North America
+C_201,Montserrat,,North America
+C_202,Netherlands Antilles,,North America
+C_203,Curaçao,,North America
+C_204,Aruba,,North America
+C_205,Sint Maarten (Netherlands),,North America
+C_206,"Bonaire,  Sint Eustatius and Saba",,North America
+C_207,Nicaragua,,North America
+C_208,United States Minor Outlying Islands,,North America
+C_209,Panama,,North America
+C_210,Puerto Rico,,North America
+C_211,Saint Barthelemy,,North America
+C_212,Saint Kitts and Nevis,,North America
+C_213,Anguilla,,North America
+C_214,Saint Lucia,,North America
+C_215,Saint Martin,,North America
+C_216,Saint Pierre and Miquelon,,North America
+C_217,Saint Vincent and the Grenadines,,North America
+C_218,Trinidad and Tobago,,North America
+C_219,Turks and Caicos Islands,,North America
+C_220,United States,,North America
+C_221,United States Virgin Islands,,North America
+C_222,American Samoa,,Oceania
+C_223,Australia,,Oceania
+C_224,Solomon Islands,,Oceania
+C_225,Cook Islands,,Oceania
+C_226,Fiji,,Oceania
+C_227,French Polynesia,,Oceania
+C_228,Kiribati,,Oceania
+C_229,Guam,,Oceania
+C_230,Nauru,,Oceania
+C_231,New Caledonia,,Oceania
+C_232,Vanuatu,,Oceania
+C_233,New Zealand,,Oceania
+C_234,Niue,,Oceania
+C_235,Norfolk Island,,Oceania
+C_236,Northern Mariana Islands,,Oceania
+C_237,United States Minor Outlying Islands,,Oceania
+C_238,Micronesia,,Oceania
+C_239,Marshall Islands,,Oceania
+C_240,Palau,,Oceania
+C_241,Papua New Guinea,,Oceania
+C_242,Pitcairn Islands,,Oceania
+C_243,Tokelau,,Oceania
+C_244,Tonga,,Oceania
+C_245,Tuvalu,,Oceania
+C_246,Wallis and Futuna,,Oceania
+C_247,Samoa,,Oceania
+C_248,Disputed Territory,,Oceania
+C_249,Argentina,,South America
+C_250,Bolivia,,South America
+C_251,Brazil,,South America
+C_252,Chile,,South America
+C_253,Colombia,,South America
+C_254,Ecuador,,South America
+C_255,Falkland Islands (Malvinas),,South America
+C_256,French Guiana,,South America
+C_257,Guyana,,South America
+C_258,Paraguay,,South America
+C_259,Peru,,South America
+C_260,Suriname,,South America
+C_261,Uruguay,,South America
+C_262,Venezuela,,South America

@@ -1,0 +1,506 @@
+Team Key,TeamName,Country,Game Key
+T_001,San Francisco Shock,United States,4
+T_002,London Spitfire,United Kingdom,6
+T_003,New York Excelsior,United States,5
+T_004,Philadelphia Fusion,United States,10
+T_005,Seoul Dynasty,South Korea,8
+T_006,Vancouver Titans,Canada,9
+T_007,Shanghai Dragons,China,6
+T_008,Los Angeles Gladiators,United States,3
+T_009,Atlanta Reign,United States,1
+T_010,Los Angeles Valiant,United States,2
+T_011,Team Envy,International / Unknown,9
+T_012,Hangzhou Spark,China,9
+T_013,RunAway,International / Unknown,9
+T_014,Lunatic-hai,International / Unknown,6
+T_015,Boston Uprising,United States,3
+T_016,GC Busan,South Korea,1
+T_017,Washington Justice,United States,7
+T_018,Rogue,International / Unknown,10
+T_019,Team Gigantti,International / Unknown,9
+T_020,Florida Mayhem,United States,8
+T_021,Misfits,International / Unknown,4
+T_022,LGD Gaming,China,8
+T_023,Osh-Tekk Warriors,International / Unknown,1
+T_024,Talon Esports,International / Unknown,10
+T_025,Flash Wolves,International / Unknown,10
+T_026,Miraculous Youngster,International / Unknown,8
+T_027,Team Kongdoo,International / Unknown,5
+T_028,Cloud9,United States,5
+T_029,Blank Esports,International / Unknown,6
+T_030,Houston Outlaws,United States,6
+T_031,NRG Esports,United States,5
+T_032,Hong Kong Attitude,Hong Kong,6
+T_033,Afreeca Freecs,International / Unknown,10
+T_034,LuxuryWatch,International / Unknown,2
+T_035,Immortals,International / Unknown,8
+T_036,Vici Gaming,China,8
+T_037,Paris Eternal,France,9
+T_038,Gen.G,South Korea,1
+T_039,Guangzhou Charge,China,7
+T_040,ahq e-Sports Club,International / Unknown,4
+T_041,Team Skadis Gift,International / Unknown,4
+T_042,Dallas Fuel,United States,5
+T_043,American National Team,American,9
+T_044,Chinese National Team,Chinese,1
+T_045,French National Team,French,6
+T_046,Korean National Team,Korean,2
+T_047,Canadian National Team,Canadian,4
+T_048,Bilibili Gaming,China,3
+T_049,FaZe Clan,United States,3
+T_050,MVP,International / Unknown,1
+T_051,Australian National Team,Australian,2
+T_052,Invictus Gaming,China,7
+T_053,ORDER,Australia,10
+T_054,Fnatic,United Kingdom,6
+T_055,Finnish National Team,Finnish,4
+T_056,Swedish National Team,Swedish,8
+T_057,British National Team,British,1
+T_058,Toronto Defiant,Canada,5
+T_059,Star Horn Royal Club,International / Unknown,6
+T_060,Nova eSports,International / Unknown,4
+T_061,Russian National Team,Russian,5
+T_062,Lowkey Esports,International / Unknown,6
+T_063,German National Team,German,2
+T_064,Spanish National Team,Spanish,7
+T_065,Taiwanese National Team,Taiwanese,4
+T_066,eUnited,International / Unknown,3
+T_067,NGA Club,International / Unknown,2
+T_068,REUNITED,International / Unknown,6
+T_069,Samsung,International / Unknown,7
+T_070,Luminosity Gaming,Canada,8
+T_071,Brazilian National Team,Brazilian,4
+T_072,Thai National Team,Thai,2
+T_073,Team Liquid,Netherlands,1
+T_074,DeToNator,International / Unknown,3
+T_075,Team Singularity,International / Unknown,6
+T_076,Ninjas in Pyjamas,Sweden,5
+T_077,compLexity Gaming,International / Unknown,10
+T_078,Danish National Team,Danish,9
+T_079,Dutch National Team,Dutch,3
+T_080,Mindfreak,,3
+T_081,Winstrike Team,,8
+T_082,Singaporian National Team,,7
+T_083,Austrian National Team,,5
+T_084,Italian National Team,,3
+T_085,Japanese National Team,,5
+T_086,Norweigan National Team,,10
+T_087,Third Impact,,10
+T_088,World Elite,,3
+T_089,Snake Esports,,10
+T_090,Isurus Gaming,,5
+T_091,GamersOrigin,,4
+T_092,Copenhagen Flames,,4
+T_093,Team Celestial,,5
+T_094,Polish National Team,,4
+T_095,Newbee,,10
+T_096,OMG,,6
+T_097,Legacy eSports,,8
+T_098,Triumph,,2
+T_099,Ghost Gaming,,7
+T_100,Hong Kong National Team,,5
+T_101,Jin Air Green Wings,,10
+T_102,SK Telecom T1,,8
+T_103,Incredible Miracle,,6
+T_104,StarTale,,2
+T_105,ENCE eSports,,9
+T_106,KT Rolster,,5
+T_107,Evil Geniuses,,10
+T_108,Millenium,,10
+T_109,Splyce,,6
+T_110,Prime,,2
+T_111,ROOT Gaming,,2
+T_112,Team Acer,,6
+T_113,mousesports,,2
+T_114,Ting,,1
+T_115,mYinsanity,,3
+T_116,Old Generations,,9
+T_117,Team expert,,10
+T_118,CJ Entus,,2
+T_119,PSISTORM Gaming,,5
+T_120,Team SCV Life,,7
+T_121,FXOpen e-Sports,,1
+T_122,SlayerS,,10
+T_123,Dragon Phoenix Gaming,,5
+T_124,Woongjin Stars,,5
+T_125,STX SouL,,4
+T_126,CM Storm,,10
+T_127,Chivo SC,,5
+T_128,Team QLASH,,4
+T_129,EURONICS Gaming,,10
+T_130,Team Dignitas,,9
+T_131,SK Gaming,,4
+T_132,Axiom eSports,,10
+T_133,Ballistix,,8
+T_134,Team Reciprocity,,6
+T_135,Team Empire,,1
+T_136,Triumphant Song Gaming,,3
+T_137,AZUBU,,3
+T_138,KaiZi Gaming,,3
+T_139,Quantic Gaming,,9
+T_140,Dead Pixels,,5
+T_141,Team Roccat,,10
+T_142,The Gosu Crew,,8
+T_143,Mkers,,3
+T_144,Zenith of Origin,,4
+T_145,True eSport,,4
+T_146,ALTERNATE aTTaX,,6
+T_147,Raise Your Edge Gaming,,5
+T_148,Karont3 e-Sports Club,,1
+T_149,New Star HoSeo,,8
+T_150,Cascade,,5
+T_151,Invasion eSport,,2
+T_152,OSC Elite,,4
+T_153,Brave Star Gaming,,4
+T_154,Ocean Gaming,,4
+T_155,ZeNEX,,1
+T_156,Arma Team,,3
+T_157,Alliance,,4
+T_158,Radical Online X-tremists,,7
+T_159,mTw,,9
+T_160,Gama Bears,,3
+T_161,Wayi Spider,,4
+T_162,Alien Invasion,,4
+T_163,X-Team,,6
+T_164,ESC Gaming,,1
+T_165,AT Gaming,,2
+T_166,TitanEX1,,1
+T_167,AGO Esports,,5
+T_168,NewRoSoft,,10
+T_169,For Our Utopia,,6
+T_170,XMG,,8
+T_171,Planetkey Dynamics,,4
+T_172,Team Property,,8
+T_173,Western Wolves,,8
+T_174,Pixel 1,,4
+T_175,Elevate,,1
+T_176,J Team,,10
+T_177,FlipSid3 Tactics,,10
+T_178,TCM Gaming,,1
+T_179,Team Revolution,,9
+T_180,Asterion,,7
+T_181,Team SPACECRAFT,,2
+T_182,PanDarea,,8
+T_183,SBENU,,5
+T_184,O'Gaming,,10
+T_185,Exile5,,7
+T_186,Royal Never Give Up,,3
+T_187,EDward Gaming,,10
+T_188,G2 Esports,,8
+T_189,Team SoloMid,,6
+T_190,Taipei Assassins,,3
+T_191,FunPlus Phoenix,,8
+T_192,Top Esports,,10
+T_193,ROX Gaming,,10
+T_194,Counter Logic Gaming,,9
+T_195,DAMWON Gaming,,9
+T_196,JD Gaming,,8
+T_197,DragonX,,1
+T_198,NaJin e-mFire,,5
+T_199,H2K,,7
+T_200,Gambit Esports,,2
+T_201,Suning,,6
+T_202,Origen,,1
+T_203,Unicorns of Love,,10
+T_204,DetonatioN,,9
+T_205,Longzhu Gaming,,4
+T_206,Griffin,,6
+T_207,Marines Esports,,8
+T_208,Moscow Five,,7
+T_209,I May,,5
+T_210,Team LDLC.com,,4
+T_211,Vitality,,2
+T_212,NASR eSports,,4
+T_213,Albus NoX Luna,,6
+T_214,Illuminar Gaming,,5
+T_215,100 Thieves,,9
+T_216,eSuba,,5
+T_217,FlyQuest,,7
+T_218,KaBuM! e-Sports,,6
+T_219,Schalke 04 Esports,,10
+T_220,paiN Gaming,,4
+T_221,Saigon Jokers,,1
+T_222,Team Curse,,6
+T_223,Kaos Latin Gamers,,5
+T_224,INTZ eSports,,1
+T_225,Young Miracles,,5
+T_226,BIG,,1
+T_227,Dark Passage,,1
+T_228,Lyon Gaming,,7
+T_229,Rogue Warriors,,1
+T_230,MAD Lions,,3
+T_231,Qiao Gu Reapers,,7
+T_232,Positive Energy,,4
+T_233,Team King,,1
+T_234,Copenhagen Wolves,,2
+T_235,SinoDragon,,1
+T_236,Vega Squadron,,7
+T_237,Keyd Stars,,6
+T_238,Bangkok Titans,,4
+T_239,Maximum Impact Gaming,,10
+T_240,Giants Gaming,,9
+T_241,Kuala Lumpur Hunters,,9
+T_242,Meet Your Makers,,2
+T_243,ESC Ever,,2
+T_244,EVOS,,10
+T_245,LMQ,,6
+T_246,CNB e-Sports Club,,9
+T_247,Lazarus,,8
+T_248,Cooler Esport,,2
+T_249,Sentinels,,7
+T_250,LeStream Esport,,10
+T_251,9z Team,,7
+T_252,Kungarna,,7
+T_253,Valhalla Vikings,,10
+T_254,Solary,,7
+T_255,Team Atlantis,,10
+T_256,Eleven Gaming,,7
+T_257,Virtus.pro,,2
+T_258,World Best Gaming,,6
+T_259,Become Legends,,10
+T_260,Team Secret,,5
+T_261,Team Kinguin,,9
+T_262,Gentside Esports Club,,7
+T_263,Crazy Raccoon,,1
+T_264,TrainHard eSport,,3
+T_265,Executors One,,10
+T_266,exceL eSports,,2
+T_267,MCES,,6
+T_268,Helsinki REDS,,7
+T_269,Supremacy,,2
+T_270,Natus Vincere,,1
+T_271,Tempo Storm,,1
+T_272,Riot Squad Esports,,1
+T_273,Renegades,,5
+T_274,Optimal Ambition,,1
+T_275,Oserv Esport,,3
+T_276,M10 Esports,,1
+T_277,Raised by Kings,,2
+T_278,Dynamind,,5
+T_279,Riddle,,6
+T_280,Stratum Esports,,9
+T_281,FURIA Esports,,1
+T_282,Team GamerLegion,,10
+T_283,Team Queso,,7
+T_284,The Chiefs eSports Club,,10
+T_285,Wave Esports,,7
+T_286,Built By Gamers,,6
+T_287,Rise Nation,,10
+T_288,GODSENT,,10
+T_289,OpTic Gaming,,9
+T_290,XSET,,4
+T_291,Method,,10
+T_292,BDS Esport,,8
+T_293,Ovation eSports,,5
+T_294,Exalty,,7
+T_295,Beşiktaş e-Sports Club,,2
+T_296,Fade 2 Karma,,8
+T_297,Grizi Esport,,4
+T_298,Veloce Esports,,7
+T_299,Project EVERSIO,,7
+T_300,Team Parallel,,3
+T_301,ExAequo,,2
+T_302,Cosa Nostra Games,,6
+T_303,Pittsburgh Knights,,6
+T_304,Enterprise Gaming,,8
+T_305,HellRaisers,,2
+T_306,Mock-It eSports,,3
+T_307,Team Requiem,,6
+T_308,Granit Gaming,,6
+T_309,War Legend,,5
+T_310,vsBANDITS,,4
+T_311,Rams,,4
+T_312,Astralis,,9
+T_313,MIBR,,5
+T_314,TyLoo,,4
+T_315,North,,5
+T_316,Heroic,,2
+T_317,Windigo Gaming,,10
+T_318,Space Soldiers,,4
+T_319,AVANGAR,,8
+T_320,Epsilon eSports,,1
+T_321,OG,,2
+T_322,Tricked eSports,,5
+T_323,forZe,,10
+T_324,Team Spirit,,9
+T_325,HAVU Gaming,,4
+T_326,Sprout,,10
+T_327,Chaos Esports Club,,7
+T_328,CR4ZY,,4
+T_329,Bravado Gaming,,9
+T_330,PENTA Sports,,4
+T_331,Titan eSports,,4
+T_332,Endpoint,,4
+T_333,The Imperial,,4
+T_334,Movistar Riders,,7
+T_335,x6tence,,3
+T_336,Vox Eminor,,10
+T_337,SJ Gaming,,6
+T_338,Team VeryGames,,8
+T_339,PRIDE Gaming,,4
+T_340,Selfless Gaming,,7
+T_341,Echo Fox,,7
+T_342,Nemiga Gaming,,8
+T_343,The MongolZ,,6
+T_344,BOOM Esports,,1
+T_345,Grayhound Gaming,,8
+T_346,3DMAX,,5
+T_347,Team One,,7
+T_348,PACT,,9
+T_349,ARCY,,6
+T_350,Swole Patrol,,9
+T_351,KOVA Esports,,1
+T_352,Syman Gaming,,1
+T_353,iGame.com,,1
+T_354,iBUYPOWER,,9
+T_355,Wings Gaming,,10
+T_356,Paris Saint-Germain Esports,,3
+T_357,TnC Gaming,,3
+T_358,EHOME,,4
+T_359,CDEC Gaming,,4
+T_360,Mineski,,9
+T_361,Team DK,,3
+T_362,Infamous,,7
+T_363,Keen Gaming,,4
+T_364,TongFu,,5
+T_365,Ad Finem,,2
+T_366,Nigma,,7
+T_367,Team Serenity,,4
+T_368,Orange Esports,,9
+T_369,FlyToMoon,,6
+T_370,Execration,,9
+T_371,Team Aster,,8
+T_372,Rave,,7
+T_373,Geek Fam,,3
+T_374,Team Faceless,,5
+T_375,J.Storm,,2
+T_376,SG e-sports,,10
+T_377,Team NP,,9
+T_378,Vikin.gg,,5
+T_379,Big God,,5
+T_380,Quincy Crew,,7
+T_381,Tigers,,5
+T_382,Escape Gaming,,3
+T_383,beastcoast,,4
+T_384,HyperGloryTeam,,2
+T_385,Team Adroit,,9
+T_386,Scythe Gaming,,7
+T_387,Greek National Team,,1
+T_388,Team Tinker,,5
+T_389,Speed Gaming,,10
+T_390,4 Clovers & Lepricon,,1
+T_391,Forward Gaming,,7
+T_392,Power Rangers,,3
+T_393,Team Malaysia,,4
+T_394,Fighting PandaS,,10
+T_395,Planet Odd,,7
+T_396,Ukranian National Team,,4
+T_397,Sigma,,1
+T_398,Team Random,,7
+T_399,Thunderbirds,,6
+T_400,mudgolems,,10
+T_401,Team Archon,,10
+T_402,Team Zenith,,1
+T_403,London Conspiracy,,4
+T_404,Rex Regum Qeon,,10
+T_405,Team Unique,,4
+T_406,(monkey) Business,,9
+T_407,Made in Thailand,,6
+T_408,Elite Wolves,,8
+T_409,No Tidehunter,,4
+T_410,Business associates,,6
+T_411,NoPing e-sports,,6
+T_412,OGN Entus,,7
+T_413,Four Angry Men,,2
+T_414,Actoz Stars,,7
+T_415,Infantry Clan,,5
+T_416,Welcome to South Georgo,,4
+T_417,VC Gaming,,6
+T_418,KSV eSports,,6
+T_419,Shoot To Kill,,2
+T_420,Susquehanna Soniqs,,5
+T_421,Luminous Stars,,1
+T_422,Armory Gaming,,10
+T_423,Divine Esports,,6
+T_424,Wildcard Gaming,,10
+T_425,QConfirm,,5
+T_426,Genesis,,3
+T_427,QM Gaming,,5
+T_428,Athletico,,6
+T_429,The Rumblers,,4
+T_430,Buriram United Esports,,2
+T_431,Tornado Energy,,9
+T_432,Northern Lights,,7
+T_433,Sunsister,,9
+T_434,against All authority,,8
+T_435,Purple Mood E-Sport,,7
+T_436,wisdom Nerve victory,,5
+T_437,FURY,,4
+T_438,M19,,7
+T_439,Global Esports Xsset,,8
+T_440,DivisionX Gaming,,7
+T_441,RED Canids,,6
+T_442,WClick,,8
+T_443,Vietnamese National Team,,2
+T_444,CERBERUS Esports,,4
+T_445,Noble eSports,,2
+T_446,ArkAngel,,1
+T_447,303 Esports,,3
+T_448,Spacestation Gaming,,10
+T_449,Simplicity Esports,,2
+T_450,Rascal Jester,,3
+T_451,Elgiganten Gaming,,3
+T_452,Argentinian National Team,,8
+T_453,Black Dragons e-Sports,,5
+T_454,Nordavind,,9
+T_455,Team One More,,4
+T_456,Nihilum Gaming,,6
+T_457,Team Gamer Sensei,,6
+T_458,Czech National Team,,8
+T_459,Omnislash,,6
+T_460,Radiance,,5
+T_461,New Zealand National Team,,10
+T_462,Team Hearthlytics,,3
+T_463,Team Oplon,,1
+T_464,Konix eSport,,1
+T_465,Bulgarian National Team,,3
+T_466,Kyoto eSports,,2
+T_467,Team Phantasma,,6
+T_468,ANOX,,8
+T_469,Big3,,4
+T_470,Vicious Syndicate Gaming,,3
+T_471,Portugese National Team,,2
+T_472,Trig Esports,,4
+T_473,Chilean National Team,,10
+T_474,Swiss National Team,,8
+T_475,FC Barcelona,,3
+T_476,Valencia CF eSports,,3
+T_477,Mexican National Team,,2
+T_478,Belgian National Team,,2
+T_479,Romanian National Team,,1
+T_480,eStar Gaming,,8
+T_481,Tempest,,9
+T_482,Gale Force eSports,,7
+T_483,L5,,4
+T_484,Team Naventic,,9
+T_485,Team No Limit,,1
+T_486,Astral Authority,,8
+T_487,Denial Esports,,8
+T_488,COGnitive Gaming,,9
+T_489,Panda Global,,1
+T_490,Brain Power,,2
+T_491,Bob Question Mark,,6
+T_492,Brave e-Sports,,3
+T_493,Dark Sided,,1
+T_494,Reason Gaming,,2
+T_495,El NeXo,,4
+T_496,Hungarian National Team,,8
+T_497,Wind and Rain,,8
+T_498,ePunks,,9
+T_499,Hero JiuJ,,9
+T_500,Bazaar Gaming,,4
+T_501,King of Gamers Club,,8
+T_502,Team Allegiance,,10
+T_503,GameTV,,3
+T_504,Team Flash,,2
+T_505,MEGA Esports,,5

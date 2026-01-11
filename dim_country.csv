@@ -1,0 +1,255 @@
+Country_Key,Country_Name,Country_Code,Country_Number
+C_001,Afghanistan,AF,4
+C_002,Albania,AL,8
+C_003,Antarctica (the territory South of 60 deg S),AQ,10
+C_004,Algeria,DZ,12
+C_005,American Samoa,AS,16
+C_006,Andorra,AD,20
+C_007,Angola,AO,24
+C_008,Antigua and Barbuda,AG,28
+C_009,Azerbaijan,AZ,31
+C_010,Argentina,AR,32
+C_011,Australia,AU,36
+C_012,Austria,AT,40
+C_013,Bahamas,BS,44
+C_014,Bahrain,BH,48
+C_015,Bangladesh,BD,50
+C_016,Armenia,AM,51
+C_017,Barbados,BB,52
+C_018,Belgium,BE,56
+C_019,Bermuda,BM,60
+C_020,Bhutan,BT,64
+C_021,Bolivia,BO,68
+C_022,Bosnia and Herzegovina,BA,70
+C_023,Botswana,BW,72
+C_024,Bouvet Island,BV,74
+C_025,Brazil,BR,76
+C_026,Belize,BZ,84
+C_027,British Indian Ocean Territory (Chagos Archipelago),IO,86
+C_028,Solomon Islands,SB,90
+C_029,British Virgin Islands,VG,92
+C_030,Brunei,BN,96
+C_031,Bulgaria,BG,100
+C_032,Myanmar,MM,104
+C_033,Burundi,BI,108
+C_034,Belarus,BY,112
+C_035,Cambodia,KH,116
+C_036,Cameroon,CM,120
+C_037,Canada,CA,124
+C_038,Cape Verde,CV,132
+C_039,Cayman Islands,KY,136
+C_040,Central African Republic,CF,140
+C_041,Sri Lanka,LK,144
+C_042,Chad,TD,148
+C_043,Chile,CL,152
+C_044,People's Republic of China,CN,156
+C_045,Taiwan,TW,158
+C_046,Christmas Island,CX,162
+C_047,Cocos (Keeling) Islands,CC,166
+C_048,Colombia,CO,170
+C_049,Comoros,MM,174
+C_050,Mayotte,YT,175
+C_051,Republic of the Congo (Congo-Brazzaville),CG,178
+C_052,Democratic Republic of the Congo,CD,180
+C_053,Cook Islands,CK,184
+C_054,Costa Rica,CR,188
+C_055,Croatia,HR,191
+C_056,Cuba,CU,192
+C_057,Cyprus,CY,196
+C_058,Czech Republic,CZ,203
+C_059,Benin,BJ,204
+C_060,Denmark,DK,208
+C_061,Dominica,DM,212
+C_062,Dominican Republic,DO,214
+C_063,Ecuador,EC,218
+C_064,El Salvador,SV,222
+C_065,Equatorial Guinea,GQ,226
+C_066,Ethiopia,ET,231
+C_067,Eritrea,ER,232
+C_068,Estonia,EE,233
+C_069,Faroe Islands,FO,234
+C_070,Falkland Islands (Malvinas),FK,238
+C_071,South Georgia and the South Sandwich Islands,GS,239
+C_072,Fiji Islands,FJ,242
+C_073,Finland,FI,246
+C_074,√land Islands,AX,248
+C_075,France,FR,250
+C_076,French Guiana,GF,254
+C_077,French Polynesia,PF,258
+C_078,French Southern Territories,TF,260
+C_079,Djibouti,DJ,262
+C_080,Gabon,GA,266
+C_081,Georgia,GE,268
+C_082,Gambia,GM,270
+C_083,Palestine,PS,275
+C_084,Germany,DE,276
+C_085,Ghana,GH,288
+C_086,Gibraltar,GI,292
+C_087,Kiribati,KI,296
+C_088,Greece,GR,300
+C_089,Greenland,GL,304
+C_090,Grenada,GD,308
+C_091,Guadeloupe,GP,312
+C_092,Guam,GU,316
+C_093,Guatemala,GT,320
+C_094,Guinea,GN,324
+C_095,Guyana,GY,328
+C_096,Haiti,HT,332
+C_097,Heard Island and McDonald Islands,HM,334
+C_098,Holy See (Vatican City State),VA,336
+C_099,Honduras,HN,340
+C_100,"Hong Kong, Special Administrative Region of China",HK,344
+C_101,Hungary,HU,348
+C_102,Iceland,IS,352
+C_103,India,IN,356
+C_104,Indonesia,ID,360
+C_105,Iran,IR,364
+C_106,Iraq,IQ,368
+C_107,Ireland,IE,372
+C_108,Israel,IL,376
+C_109,Italy,IT,380
+C_110,Cote d'Ivoire,CI,384
+C_111,Jamaica,JM,388
+C_112,Japan,JP,392
+C_113,Kazakhstan,KZ,398
+C_114,Jordan,JO,400
+C_115,Kenya,KE,404
+C_116,Democratic People's Republic of Korea,KP,408
+C_117,Republic of Korea,KR,410
+C_118,Kuwait,KW,414
+C_119,Kyrgyz Republic,KG,417
+C_120,Laos,LA,418
+C_121,Lebanon,LB,422
+C_122,Lesotho,LS,426
+C_123,Latvia,LV,428
+C_124,Liberia,LR,430
+C_125,Libya,LY,434
+C_126,Liechtenstein,LI,438
+C_127,Lithuania,LT,440
+C_128,Luxembourg,LU,442
+C_129,"Macao, Special Administrative Region of China",MO,446
+C_130,Madagascar,MG,450
+C_131,Malawi,MW,454
+C_132,Malaysia,MY,458
+C_133,Maldives,MV,462
+C_134,Mali,ML,466
+C_135,Malta,MT,470
+C_136,Martinique,MQ,474
+C_137,Mauritania,MR,478
+C_138,Mauritius,MU,480
+C_139,Mexico,MX,484
+C_140,Monaco,MC,492
+C_141,Mongolia,MN,496
+C_142,Moldova,MD,498
+C_143,Montenegro,ME,499
+C_144,Montserrat,MS,500
+C_145,Morocco,MA,504
+C_146,Mozambique,MZ,508
+C_147,Oman,OM,512
+C_148,Namibia,NA,516
+C_149,Nauru,NR,520
+C_150,Nepal,NP,524
+C_151,Netherlands,NL,528
+C_152,Netherlands Antilles,AN,530
+C_153,Cura√cao,CW,531
+C_154,Aruba,AW,533
+C_155,Sint Maarten (Netherlands),SX,534
+C_156,"Bonaire, Sint Eustatius and Saba",BQ,535
+C_157,New Caledonia,NC,540
+C_158,Vanuatu,VU,548
+C_159,New Zealand,NZ,554
+C_160,Nicaragua,NI,558
+C_161,Niger,NE,562
+C_162,Nigeria,NG,566
+C_163,Niue,NU,570
+C_164,Norfolk Island,NF,574
+C_165,Norway,NO,578
+C_166,Northern Mariana Islands,MP,580
+C_167,United States Minor Outlying Islands,UM,581
+C_168,Micronesia,FM,583
+C_169,Marshall Islands,MH,584
+C_170,Palau,PW,585
+C_171,Pakistan,PK,586
+C_172,Panama,PA,591
+C_173,Papua New Guinea,PG,598
+C_174,Paraguay,PY,600
+C_175,Peru,PE,604
+C_176,Philippines,PH,608
+C_177,Pitcairn Islands,PN,612
+C_178,Poland,PL,616
+C_179,Portugal,PT,620
+C_180,Guinea-Bissau,GW,624
+C_181,Timor-Leste,TL,626
+C_182,Puerto Rico,PR,630
+C_183,Qatar,QA,634
+C_184,Reunion,RE,638
+C_185,Romania,RO,642
+C_186,Russian Federation,RU,643
+C_187,Rwanda,RW,646
+C_188,Saint Barthelemy,BL,652
+C_189,Saint Helena,SH,654
+C_190,Saint Kitts and Nevis,KN,659
+C_191,Anguilla,AI,660
+C_192,Saint Lucia,LC,662
+C_193,Saint Martin,MF,663
+C_194,Saint Pierre and Miquelon,PM,666
+C_195,Saint Vincent and the Grenadines,VC,670
+C_196,San Marino,SM,674
+C_197,Sao Tome and Principe,ST,678
+C_198,Saudi Arabia,SA,682
+C_199,Senegal,SN,686
+C_200,Serbia,RS,688
+C_201,Seychelles,SC,690
+C_202,Sierra Leone,SL,694
+C_203,Singapore,SG,702
+C_204,Slovakia,S,703
+C_205,Vietnam,VN,704
+C_206,Slovenia,SI,705
+C_207,Somalia,SO,706
+C_208,South Africa,ZA,710
+C_209,Zimbabwe,ZW,716
+C_210,Spain,ES,724
+C_211,South Sudan,SS,728
+C_212,Western Sahara,EH,732
+C_213,Republic of Sudan,SD,736
+C_214,Suriname,SR,740
+C_215,Svalbard & Jan Mayen Islands,SJ,744
+C_216,Swaziland,SZ,748
+C_217,Sweden,SE,752
+C_218,Switzerland,SZ,756
+C_219,Syria,SY,760
+C_220,Tajikistan,TJ,762
+C_221,Thailand,TH,764
+C_222,Togo,TG,768
+C_223,Tokelau,TK,772
+C_224,Tonga,TO,776
+C_225,Trinidad and Tobago,TT,780
+C_226,United Arab Emirates,AE,784
+C_227,Tunisia,TN,788
+C_228,Turkey,TR,792
+C_229,Turkmenistan,TM,795
+C_230,Turks and Caicos Islands,TC,796
+C_231,Tuvalu,TV,798
+C_232,Uganda,UG,800
+C_233,Ukraine,UA,804
+C_234,Macedonia,MK,807
+C_235,Egypt,EG,818
+C_236,United Kingdom,GB,826
+C_237,Bailiwick of Guernsey,GG,831
+C_238,Bailiwick of Jersey,JE,832
+C_239,Isle of Man,IM,833
+C_240,Tanzania,TZ,834
+C_241,United States of America,US,840
+C_242,United States Virgin Islands,VI,850
+C_243,Burkina Faso,BF,854
+C_244,Uruguay,UY,858
+C_245,Uzbekistan,UZ,860
+C_246,Venezuela,VE,862
+C_247,Wallis and Futuna,WF,876
+C_248,Samoa,WS,882
+C_249,Yemen,YE,887
+C_250,Zambia,ZM,894
+C_251,Disputed Territory,XX,
+C_252,Iraq-Saudi Arabia Neutral Zone,XE,
+C_253,United Nations Neutral Zone,XD,
+C_254,Spratly Islands,XS,
